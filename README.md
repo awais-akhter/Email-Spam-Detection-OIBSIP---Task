@@ -61,6 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Muhammad Awais Akhter
 
----
-
-Feel free to adapt and expand this `README.md` to suit your project's specific details and requirements. You can also include information on how to run the code, dependencies, and any other relevant information.
